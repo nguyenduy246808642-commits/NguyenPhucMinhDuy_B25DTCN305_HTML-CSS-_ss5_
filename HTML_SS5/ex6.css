@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ffffff;
+}
+
+.container {
+    width: 600px;
+    margin: 30px auto;
+    text-align: center;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 20px;
+}
+
+.title {
+    color: #1e90ff;
+    margin: 20px 0;
+}
+
+.doctor-card {
+    background-color: #e6f7ff;
+    padding: 20px;
+    display: inline-block;
+}
+
+.doctor-card img {
+    width: 180px;
+    display: block;
+    margin: 0 auto 10px;
+}
+
+.doctor-card:hover {
+    background-color: #e6f7ff;
+}
+
+.doctor-card h3 {
+    color: #1e90ff;
+    margin: 10px 0 5px;
+}
+
+.doctor-card p {
+    margin: 0;
+}
+
+.services p {
+    margin: 6px 0;
+}

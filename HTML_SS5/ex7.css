@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ffffff;
+}
+
+.clinic {
+    width: 700px;
+    margin: 30px auto;
+    text-align: center;
+    background-color: #f5f7fb;
+    padding: 20px;
+}
+
+
+.main-title {
+    color: #1e90ff;
+    margin-bottom: 10px;
+}
+.subtitle {
+    color: #1e90ff;
+    font-style: italic;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+.clinic img {
+    width: 400px;
+    margin-bottom: 25px;
+}
+
+.address-title {
+    color: #1e90ff;
+    margin-bottom: 10px;
+}
+
+.address-list p {
+    margin: 6px 0;
+}
+
+.highlight {
+    color: red;
+}
